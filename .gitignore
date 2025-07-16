@@ -7,3 +7,8 @@ venv/
 
 .DS_Store
 .ipynb_checkpoints
+notebooks/result.mp4
+notebooks/video.mp4
+notebooks/yolov8s.pt
+notebooks/first_frame.png
+uv.lock
